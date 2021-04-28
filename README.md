@@ -4,4 +4,4 @@
 # Download
 [Download mesher exe](https://www.u.tsukuba.ac.jp/~s2120854/mesher.zip)
 # 使い方
-[Download mesher exe](https://www.u.tsukuba.ac.jp/~s2120854/how_to.mp4)
+[使い方の動画](https://www.u.tsukuba.ac.jp/~s2120854/how_to.mp4)
